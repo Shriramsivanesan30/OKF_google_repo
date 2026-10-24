@@ -1,0 +1,30 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "title": "Python Basics",
+      "description": "Introduction to Python programming fundamentals",
+      "tags": ["python", "beginner", "programming"],
+      "created_at": "2026-10-24T18:45:00"
+    },
+    {
+      "id": 2,
+      "title": "Machine Learning Overview",
+      "description": "Core concepts of machine learning and AI",
+      "tags": ["ml", "ai", "data-science"],
+      "created_at": "2026-10-24T18:45:01"
+    },
+    {
+      "id": 3,
+      "title": "Web Development",
+      "description": "Modern web development with HTML, CSS, and JavaScript",
+      "tags": ["web", "javascript", "html", "css"],
+      "created_at": "2026-10-24T18:45:02"
+    }
+  ],
+  "metadata": {
+    "created": "2026-10-24T18:45:00",
+    "updated": "2026-10-24T18:45:02",
+    "version": "1.0.0"
+  }
+}
